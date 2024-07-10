@@ -1,0 +1,10 @@
+prathik,70.79
+hrithik,53.32
+kush,422.52
+praty,64.76
+vidi,432.65
+varun,345.76
+bob,43.54
+bobb,542.43
+joe,3487.32
+keshav,433.56
